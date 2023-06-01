@@ -1,5 +1,5 @@
 # DS_management
-![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+![](https://img.shields.io/badge/Project%20status-Done-green)
 
 ## Оглавление
 
@@ -29,7 +29,6 @@
   [Решение](https://github.com/msavilov/DS_management/blob/main/1_Requirements_in_DS/requirements_in_ds.ipynb)
   
 ### CRISP-DM
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Решить задачу классификации вина, используя CRISP-DM подход.
 
