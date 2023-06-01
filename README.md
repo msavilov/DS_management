@@ -31,6 +31,6 @@
 ### CRISP-DM
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  Выполнение DS-задач, используя CRISP-DM подход.
+  Решить задачу классификации вина, используя CRISP-DM подход.
 
   [Решение](https://github.com/msavilov/DS_management/blob/main/2_CRISP-DM/notebooks/1.0-msavilov-crispdm.ipynb)
