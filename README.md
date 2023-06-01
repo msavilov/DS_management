@@ -33,4 +33,4 @@
   
   Выполнение DS-задач, используя CRISP-DM подход.
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/DS_management/blob/main/2_CRISP-DM/notebooks/1.0-msavilov-crispdm.ipynb)
