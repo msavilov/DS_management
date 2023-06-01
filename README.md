@@ -30,6 +30,6 @@
   
 ### CRISP-DM
   
-  Решить задачу классификации вина, используя CRISP-DM подход.
+  Решение задачи классификации вина, используя CRISP-DM подход.
 
   [Решение](https://github.com/msavilov/DS_management/blob/main/2_CRISP-DM/notebooks/1.0-msavilov-crispdm.ipynb)
